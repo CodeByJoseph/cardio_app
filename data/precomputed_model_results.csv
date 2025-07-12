@@ -1,0 +1,7 @@
+Model,Dataset,Accuracy,Precision,Recall,F1 Score,Best Parameters
+Logistic Regression,Dataset 1 (Categorical),0.7169766142549285,0.746436609152288,0.644638807904114,0.6918129671475752,"{'C': 10, 'solver': 'liblinear'}"
+Random Forest,Dataset 1 (Categorical),0.7220847633490303,0.745799853907962,0.6614836410754779,0.7011158798283261,"{'max_depth': 10, 'n_estimators': 100}"
+XGBoost,Dataset 1 (Categorical),0.7235214302817463,0.7392302259887006,0.6781665046971169,0.7073830038857916,"{'learning_rate': 0.1, 'max_depth': 6, 'n_estimators': 50}"
+Logistic Regression,Dataset 2 (BMI),0.7243195785776997,0.7527881040892194,0.6559766763848397,0.7010559113726847,"{'C': 1, 'solver': 'liblinear'}"
+Random Forest,Dataset 2 (BMI),0.733338654321973,0.7562873168083951,0.6770327178490444,0.7144688488163404,"{'max_depth': 10, 'n_estimators': 50}"
+XGBoost,Dataset 2 (BMI),0.7339771729587358,0.7529830810329474,0.6848072562358276,0.717278819238273,"{'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 100}"

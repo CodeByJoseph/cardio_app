@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cardio_app
 
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
@@ -97,3 +98,6 @@ Let me know if you'd like a short `requirements.txt` snippet or want to auto-gen
 
 
 
+=======
+# cardio_app
+>>>>>>> 20f2ebb8c00154c148429d7126c285757ce38983

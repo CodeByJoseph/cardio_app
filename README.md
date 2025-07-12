@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Cardio_app
 
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
@@ -92,12 +91,3 @@ Cloud storage (e.g., S3, Google Cloud Storage)
 
 This project is licensed under the MIT License.
 Let me know if you'd like a short `requirements.txt` snippet or want to auto-generate one from your environment (`pip freeze` filtered).
-
-
-
-
-
-
-=======
-# cardio_app
->>>>>>> 20f2ebb8c00154c148429d7126c285757ce38983
